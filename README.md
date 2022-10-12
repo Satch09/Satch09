@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Satch09
 - 👀 I’m interested in ... Serverless and IoT
 - 🌱 I’m currently learning ... Python with Pandas, NextJs
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Pretty much anything!
 - 📫 How to reach me ...
 
 <!---
